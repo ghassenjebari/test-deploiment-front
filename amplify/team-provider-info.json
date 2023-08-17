@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-ghassenprojet-dev-160136-authRole",
+      "UnauthRoleArn": "arn:aws:iam::519918073452:role/amplify-ghassenprojet-dev-160136-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::519918073452:role/amplify-ghassenprojet-dev-160136-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-ghassenprojet-dev-160136-deployment",
+      "UnauthRoleName": "amplify-ghassenprojet-dev-160136-unauthRole",
+      "StackName": "amplify-ghassenprojet-dev-160136",
+      "StackId": "arn:aws:cloudformation:us-east-1:519918073452:stack/amplify-ghassenprojet-dev-160136/cd9443c0-3c45-11ee-8020-0e355b8ef41f",
+      "AmplifyAppId": "d2krh71bjodlp6"
+    }
+  }
+}
